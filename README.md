@@ -27,7 +27,14 @@ This project focuses on analyzing and visualizing retail sales data using Python
 ## Project Files
 - project1_visualization.ipynb → Main notebook  
 - summary.txt → Project summary  
-- output→ Saved charts  
+- output→ Saved charts
+
+## Visualizations
+- [Sales_Over_Time](line_chart_sales_over_time.png)
+- [Monthly Sales](monthly_sales.png)
+- [Quarterly_Sales](quarterly_sales.png)
+- [Category_Comparison](bar_chart_category_comparison.png)
+- [Share_of_ Sales](pie_chart_share_of_sales.png)
 
 ## Conclusion
 This project demonstrates how proper data aggregation and visualization techniques help uncover meaningful insights from raw data.
