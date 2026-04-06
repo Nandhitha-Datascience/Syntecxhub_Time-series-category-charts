@@ -1,0 +1,6 @@
+
+This project analyzes retail sales data using various visualization techniques.
+Monthly and quarterly line charts show sales trends over time, indicating fluctuations and overall growth.
+Bar charts reveal that the Technology category has the highest sales compared to other categories.
+Pie charts show that certain regions contribute more significantly to total sales.
+Overall, different visualizations help understand trends, comparisons, and proportions effectively.
